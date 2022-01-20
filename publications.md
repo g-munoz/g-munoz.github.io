@@ -42,3 +42,11 @@ permalink: /publications/
 <li><strong><a rel="noreferrer noopener" href="http://dx.doi.org/10.1109/PESGM.2015.7286321" target="_blank">Approximate method for AC transmission switching based on a simple relaxation for AC-OPF problems.</a></strong><br>Bienstock D. and Muñoz G.&nbsp;<em>Power &amp; Energy Society General Meeting, IEEE pp. 1-5, July 2015.</em></li>
 <li><a rel="noreferrer noopener" href="http://emoreno.uai.cl/publicaciones/FINALES/copyrighted/APCOM2013-OpenPitRobust.pdf" target="_blank"><strong>Open Pit Mine Scheduling under uncertainty: a robust approach.</strong></a><br>Espinoza D., Goycoolea M., Moreno E., Muñoz G., and Queyranne M.&nbsp;<em>APCOM 2013 - Applications of Computers and Operations Research in the Mineral Industry, pp. 433-444, 2013.</em></li></ul>
 
+<h4 id="ph-d-thesis"><mark style="background-color:rgba(0,0,0,0);color:#1590c1;" class="has-inline-color">Ph.D. Thesis</mark></h4>
+
+<ul class="disc"><li><strong><a href="https://academiccommons.columbia.edu/catalog/ac:p8cz8w9gm0" target="_blank" rel="noopener noreferrer">Integer programming techniques for Polynomial Optimization.</a></strong> Columbia University Academic Commons, 2017.</li></ul>
+
+<h4 id="engineering-degree-thesis"><mark style="background-color:rgba(0,0,0,0);color:#1590c1;" class="has-inline-color">Engineering Degree Thesis</mark></h4>
+
+<ul class="disc"><li><strong><a rel="noopener noreferrer" href="http://repositorio.uchile.cl/handle/2250/111132" target="_blank">Linear Integer Programming Models and Applications in Mining</a></strong>&nbsp;(in Spanish). Academic Repository Universidad de Chile, 2012.</li></ul>
+
