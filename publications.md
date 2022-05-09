@@ -12,7 +12,6 @@ permalink: /publications/
 <h3 id="submitted-and-working-papers"><mark style="background-color:rgba(0,0,0,0);color:#1590c1;" class="has-inline-color">Submitted and Working Papers</mark></h3>
 
 <ul>
-<li><a rel="noreferrer noopener" href="https://arxiv.org/abs/2106.12629" target="_blank"><strong>On obtaining the convex hull of quadratic inequalities via aggregations</strong>.<br></a>Dey S., Muñoz G. and Serrano F. <em>Submitted</em>.</li>
 <li><a rel="noreferrer noopener" href="http://www.optimization-online.org/DB_HTML/2021/02/8259.html" target="_blank"><strong>Cutting Plane Generation Through Sparse Principal Component Analysis.</strong><br></a>Dey S., Kazachkov A., Lodi A. and Muñoz G. <em>Submitted</em>.</li>
 <li><strong><a rel="noopener noreferrer" href="https://arxiv.org/abs/1810.03218" target="_blank">Principled Deep Neural Network Training through Linear Programming.<br></a></strong>Bienstock D., Muñoz G. and Pokutta S. <em>Submitted.</em></li>
 </ul>
@@ -20,6 +19,7 @@ permalink: /publications/
 <h3 id="journal-publications"><mark style="background-color:rgba(0,0,0,0);color:#1590c1;" class="has-inline-color">Journal Publications</mark></h3>
 
 <ul id="block-3842bd10-f18a-4f91-b688-d7ecda6cd25a">
+ <li><a rel="noreferrer noopener" href="https://epubs.siam.org/doi/abs/10.1137/21M1428583" target="_blank"><strong>On obtaining the convex hull of quadratic inequalities via aggregations</strong>.<br></a>Dey S., Muñoz G. and Serrano F. <em>SIAM Journal on Optimization, 2022</em>.</li>
 <li><strong><a rel="noreferrer noopener" href="https://link.springer.com/article/10.1007/s10107-022-01808-5" target="_blank">On the implementation and strengthening of intersection cuts for QCQPs.</a></strong><br>Chmiela A., Muñoz G. and Serrano F. <em>Mathematical Programming, 2022</em>.</li>
 <li><strong><a rel="noreferrer noopener" href="https://link.springer.com/article/10.1007/s11590-022-01852-2" target="_blank">Convex Envelopes for Ray-Concave Functions.</a></strong><br>Barrera J., Moreno E. and Muñoz G. <em>Optimization Letters, 2022</em>.</li>
 <li><strong><a rel="noreferrer noopener" href="https://doi.org/10.1002/net.22089" target="_blank">Exact reliability optimization for series-parallel graphs using convex envelopes.</a><br></strong>Barrera J., Moreno E., Muñoz G. and Romero P. <em>Networks, 2022.</em></li>
