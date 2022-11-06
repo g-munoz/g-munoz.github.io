@@ -13,6 +13,8 @@ permalink: /publications/
 
 <ul>
 <li><strong><a rel="noopener noreferrer" href="https://arxiv.org/abs/1810.03218" target="_blank">Principled Deep Neural Network Training through Linear Programming.<br></a></strong>Bienstock D., Muñoz G. and Pokutta S. <em>Submitted.</em></li>
+ <li><strong><a rel="noopener noreferrer" href="https://www.gonzalomunoz.org/monoidalforMIQCP.pdf" target="_blank">Monoidal strengthening and unique lifting in
+MIQCPs.<br></a></strong>Chmiela A., Muñoz G. and Serrano F. <em>Submitted.</em></li>
 </ul>
 
 <h3 id="journal-publications"><mark style="background-color:rgba(0,0,0,0);color:#1590c1;" class="has-inline-color">Journal Publications</mark></h3>
