@@ -9,16 +9,17 @@ permalink: /publications/
 
 <p>For my (possibly outdated) CV click <a href="/assets/cv-en.pdf" target="_blank" rel="noreferrer noopener">HERE</a>.</p>
 
-<h3 id="submitted-and-working-papers"><mark style="background-color:rgba(0,0,0,0);color:#1590c1;" class="has-inline-color">Submitted and Working Papers</mark></h3>
+<h3 id="preprints"><mark style="background-color:rgba(0,0,0,0);color:#1590c1;" class="has-inline-color">Preprints</mark></h3>
 
 <ul>
-<li><strong><a rel="noopener noreferrer" href="https://arxiv.org/abs/1810.03218" target="_blank">Principled Deep Neural Network Training through Linear Programming.<br></a></strong>Bienstock D., Muñoz G. and Pokutta S. <em>Submitted.</em></li>
+ <li><strong><a rel="noopener noreferrer" href="https://arxiv.org/abs/2305.00241" target="_blank">When Deep Learning Meets Polyhedral Theory: A Survey.<br></a></strong>Huchette J., Muñoz G., Serra T., and Tsay C.</li>
+<li><strong><a rel="noopener noreferrer" href="https://arxiv.org/abs/1810.03218" target="_blank">Principled Deep Neural Network Training through Linear Programming.<br></a></strong>Bienstock D., Muñoz G. and Pokutta S.</li>
  <li><strong><a rel="noopener noreferrer" href="https://www.gonzalomunoz.org/monoidalforMIQCP.pdf" target="_blank">Monoidal strengthening and unique lifting in
-MIQCPs.<br></a></strong>Chmiela A., Muñoz G. and Serrano F. <em>Submitted.</em></li>
-  <li><strong><a rel="noopener noreferrer" href="https://arxiv.org/abs/2211.02727" target="_blank">Compressing Branch-and-Bound Trees.<br></a></strong>Muñoz G., Paat J., and Xavier Á. <em>Submitted.</em></li>
-  <li><strong><a rel="noopener noreferrer" href="https://arxiv.org/abs/2211.02268" target="_blank">Linear bilevel programming with uncertain lower-level costs.<br></a></strong>Muñoz G., Salas D., and Svensson A. <em>Submitted.</em></li>
+MIQCPs.<br></a></strong>Chmiela A., Muñoz G. and Serrano F.</li>
+  <li><strong><a rel="noopener noreferrer" href="https://arxiv.org/abs/2211.02727" target="_blank">Compressing Branch-and-Bound Trees.<br></a></strong>Muñoz G., Paat J., and Xavier Á.</li>
+  <li><strong><a rel="noopener noreferrer" href="https://arxiv.org/abs/2211.02268" target="_blank">Linear bilevel programming with uncertain lower-level costs.<br></a></strong>Muñoz G., Salas D., and Svensson A.</li>
  <li><strong><a rel="noopener noreferrer" href="https://arxiv.org/abs/2211.05185" target="_blank">Towards a characterization of maximal
-quadratic-free sets.<br></a></strong>Muñoz G., Paat J., and Serrano F. <em>Submitted.</em></li>
+quadratic-free sets.<br></a></strong>Muñoz G., Paat J., and Serrano F.</li>
 </ul>
 
 <h3 id="journal-publications"><mark style="background-color:rgba(0,0,0,0);color:#1590c1;" class="has-inline-color">Journal Publications</mark></h3>
