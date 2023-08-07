@@ -13,7 +13,6 @@ permalink: /publications/
 
 <ul>
  <li><strong><a rel="noopener noreferrer" href="https://arxiv.org/abs/2305.00241" target="_blank">When Deep Learning Meets Polyhedral Theory: A Survey.<br></a></strong>Huchette J., Muñoz G., Serra T., and Tsay C.</li>
-<li><strong><a rel="noopener noreferrer" href="https://arxiv.org/abs/1810.03218" target="_blank">Principled Deep Neural Network Training through Linear Programming.<br></a></strong>Bienstock D., Muñoz G. and Pokutta S.</li>
  <li><strong><a rel="noopener noreferrer" href="https://www.gonzalomunoz.org/monoidalforMIQCP.pdf" target="_blank">Monoidal strengthening and unique lifting in
 MIQCPs.<br></a></strong>Chmiela A., Muñoz G. and Serrano F.</li>
   <li><strong><a rel="noopener noreferrer" href="https://arxiv.org/abs/2211.02727" target="_blank">Compressing Branch-and-Bound Trees.<br></a></strong>Muñoz G., Paat J., and Xavier Á.</li>
@@ -25,6 +24,7 @@ quadratic-free sets.<br></a></strong>Muñoz G., Paat J., and Serrano F.</li>
 <h3 id="journal-publications"><mark style="background-color:rgba(0,0,0,0);color:#1590c1;" class="has-inline-color">Journal Publications</mark></h3>
 
 <ul id="block-3842bd10-f18a-4f91-b688-d7ecda6cd25a">
+ <li><strong><a rel="noopener noreferrer" href="https://doi.org/10.1016/j.disopt.2023.100795" target="_blank">Principled Deep Neural Network Training through Linear Programming.<br></a></strong>Bienstock D., Muñoz G. and Pokutta S. <em>Discrete Optimization, 2023</em>.</li>
  <li><a rel="noreferrer noopener" href="https://epubs.siam.org/doi/abs/10.1137/21M1399956" target="_blank"><strong>Cutting Plane Generation Through Sparse Principal Component Analysis.</strong><br></a>Dey S., Kazachkov A., Lodi A. and Muñoz G. <em>SIAM Journal on Optimization, 2022</em>.</li>
  <li><a rel="noreferrer noopener" href="https://epubs.siam.org/doi/abs/10.1137/21M1428583" target="_blank"><strong>On obtaining the convex hull of quadratic inequalities via aggregations</strong>.<br></a>Dey S., Muñoz G. and Serrano F. <em>SIAM Journal on Optimization, 2022</em>.</li>
 <li><strong><a rel="noreferrer noopener" href="https://link.springer.com/article/10.1007/s10107-022-01808-5" target="_blank">On the implementation and strengthening of intersection cuts for QCQPs.</a></strong><br>Chmiela A., Muñoz G. and Serrano F. <em>Mathematical Programming, 2022</em>.</li>
