@@ -17,8 +17,7 @@ permalink: /publications/
 MIQCPs.<br></a></strong>Chmiela A., Muñoz G. and Serrano F.</li>
   <li><strong><a rel="noopener noreferrer" href="https://arxiv.org/abs/2211.02727" target="_blank">Compressing Branch-and-Bound Trees.<br></a></strong>Muñoz G., Paat J., and Xavier Á.</li>
   <li><strong><a rel="noopener noreferrer" href="https://arxiv.org/abs/2211.02268" target="_blank">Exploiting the polyhedral geometry of stochastic linear bilevel programming.<br></a></strong>Muñoz G., Salas D., and Svensson A.</li>
- <li><strong><a rel="noopener noreferrer" href="https://arxiv.org/abs/2211.05185" target="_blank">Towards a characterization of maximal
-quadratic-free sets.<br></a></strong>Muñoz G., Paat J., and Serrano F.</li>
+ <li><strong><a rel="noopener noreferrer" href="https://arxiv.org/abs/2211.05185" target="_blank">A characterization of maximal homogeneous-quadratic-free sets.<br></a></strong>Muñoz G., Paat J., and Serrano F.</li>
 </ul>
 
 <h3 id="journal-publications"><mark style="background-color:rgba(0,0,0,0);color:#1590c1;" class="has-inline-color">Journal Publications</mark></h3>
