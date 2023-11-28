@@ -12,6 +12,7 @@ permalink: /publications/
 <h3 id="preprints"><mark style="background-color:rgba(0,0,0,0);color:#1590c1;" class="has-inline-color">Preprints</mark></h3>
 
 <ul>
+ <li><strong><a rel="noopener noreferrer" href="https://arxiv.org/abs/2311.14834" target="_blank">The MIP Workshop 2023 Computational Competition on Reoptimization.<br></a></strong>Bolusani S., Besançon M., Gleixner A., Berthold T., D'Ambrosio C., Muñoz G., Paat J., and Thomopulos D.</li>
  <li><strong><a rel="noopener noreferrer" href="https://arxiv.org/abs/2305.00241" target="_blank">When Deep Learning Meets Polyhedral Theory: A Survey.<br></a></strong>Huchette J., Muñoz G., Serra T., and Tsay C.</li>
  <li><strong><a rel="noopener noreferrer" href="https://www.gonzalomunoz.org/monoidalforMIQCP.pdf" target="_blank">Monoidal strengthening and unique lifting in
 MIQCPs.<br></a></strong>Chmiela A., Muñoz G. and Serrano F.</li>
