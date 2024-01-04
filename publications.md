@@ -12,7 +12,7 @@ permalink: /publications/
 <h3 id="preprints"><mark style="background-color:rgba(0,0,0,0);color:#1590c1;" class="has-inline-color">Preprints</mark></h3>
 
 <ul>
- <li><strong><a rel="noopener noreferrer" href="https://arxiv.org/abs/2312.17640" target="_blank">Decision-focused predictions via pessimistic bilevel optimization: a computational study.<br></a></strong>Bucarey B., Calderón S., Muñoz G., and Semet F.</li>
+ <li><strong><a rel="noopener noreferrer" href="https://arxiv.org/abs/2312.17640" target="_blank">Decision-focused predictions via pessimistic bilevel optimization: a computational study.<br></a></strong>Bucarey V., Calderón S., Muñoz G., and Semet F.</li>
  <li><strong><a rel="noopener noreferrer" href="https://arxiv.org/abs/2312.16699" target="_blank">Computational Tradeoffs of Optimization-Based Bound Tightening in ReLU Networks.<br></a></strong>Badilla F., Goycoolea M., Muñoz G., and Serra T.</li>
  <li><strong><a rel="noopener noreferrer" href="https://arxiv.org/abs/2311.14834" target="_blank">The MIP Workshop 2023 Computational Competition on Reoptimization.<br></a></strong>Bolusani S., Besançon M., Gleixner A., Berthold T., D'Ambrosio C., Muñoz G., Paat J., and Thomopulos D.</li>
  <li><strong><a rel="noopener noreferrer" href="https://arxiv.org/abs/2305.00241" target="_blank">When Deep Learning Meets Polyhedral Theory: A Survey.<br></a></strong>Huchette J., Muñoz G., Serra T., and Tsay C.</li>
