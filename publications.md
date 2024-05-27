@@ -18,12 +18,12 @@ permalink: /publications/
  <li><strong><a rel="noopener noreferrer" href="https://arxiv.org/abs/2305.00241" target="_blank">When Deep Learning Meets Polyhedral Theory: A Survey.<br></a></strong>Huchette J., Muñoz G., Serra T., and Tsay C.</li>
  <li><strong><a rel="noopener noreferrer" href="https://www.gonzalomunoz.org/monoidalforMIQCP.pdf" target="_blank">Monoidal strengthening and unique lifting in
 MIQCPs.<br></a></strong>Chmiela A., Muñoz G. and Serrano F.</li>
-  <li><strong><a rel="noopener noreferrer" href="https://arxiv.org/abs/2211.02268" target="_blank">Exploiting the polyhedral geometry of stochastic linear bilevel programming.<br></a></strong>Muñoz G., Salas D., and Svensson A.</li>
 </ul>
 
 <h3 id="journal-publications"><mark style="background-color:rgba(0,0,0,0);color:#1590c1;" class="has-inline-color">Journal Publications</mark></h3>
 
 <ul id="block-3842bd10-f18a-4f91-b688-d7ecda6cd25a">
+ <li><strong><a rel="noopener noreferrer" href="https://doi.org/10.1007/s10107-024-02097-w" target="_blank">Exploiting the polyhedral geometry of stochastic linear bilevel programming.<br></a></strong>Muñoz G., Salas D., and Svensson A. <em>Mathematical Programming, 2024</em>.</li>
  <li><strong><a rel="noopener noreferrer" href="https://doi.org/10.1007/s10107-024-02092-1" target="_blank">A characterization of maximal homogeneous-quadratic-free sets.<br></a></strong>Muñoz G., Paat J., and Serrano F. <em>Mathematical Programming, 2024</em>.</li>
  <li><strong><a rel="noopener noreferrer" href="https://link.springer.com/article/10.1007/s10107-024-02080-5" target="_blank">Compressing Branch-and-Bound Trees.<br></a></strong>Muñoz G., Paat J., and Xavier Á. <em>Mathematical Programming, 2024</em>.</li>
  <li><strong><a rel="noopener noreferrer" href="https://doi.org/10.1016/j.disopt.2023.100795" target="_blank">Principled Deep Neural Network Training through Linear Programming.<br></a></strong>Bienstock D., Muñoz G. and Pokutta S. <em>Discrete Optimization, 2023</em>.</li>
