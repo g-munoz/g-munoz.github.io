@@ -43,6 +43,7 @@ MIQCPs.<br></a></strong>Chmiela A., Muñoz G. and Serrano F.</li>
 <h3 id="conference-proceedings"><mark style="background-color:rgba(0,0,0,0);color:#1590c1;" class="has-inline-color">Conference Proceedings</mark></h3>
 
 <ul id="block-e9f0e96d-6071-439c-973b-b184e420a84e">
+ <li><strong><a rel="noopener noreferrer" href="https://doi.org/10.1007/978-3-031-60597-0_9" target="_blank">Decision-focused predictions via pessimistic bilevel optimization: a computational study.<br></a></strong>Bucarey V., Calderón S., Muñoz G., and Semet F.<em>Integration of Constraint Programming, Artificial Intelligence, and Operations Research</em>. <em>CPAIOR 2024. Lecture Notes in Computer Science, vol 14742.</em></li>
 <li><a href="https://link.springer.com/chapter/10.1007/978-3-031-32726-1_25" target="_blank" rel="noreferrer noopener"><strong>
 Compressing Branch-and-Bound Trees.</strong><br></a>Muñoz G., Paat J. and Xavier Á. <em>Integer Programming and Combinatorial Optimization</em>. <em>IPCO 2023. Lecture Notes in Computer Science, vol 13904.</em></li>
 <li><a href="https://link.springer.com/chapter/10.1007/978-3-031-32726-1_24" target="_blank" rel="noreferrer noopener"><strong>
