@@ -16,7 +16,7 @@
 title: Gonzalo Muñoz
 email: gmunoz@dii.uchile.cl
 description: >- # this means to ignore newlines until "baseurl:"
-  Personal webpage of Gonzalo Muñoz, professor 
+  Personal webpage of Gonzalo Muñoz, assistant professor 
   at the Department of Industrial Engineering, Universidad de Chile.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://gonzalomunoz.org" # the base hostname & protocol for your site, e.g. http://example.com
