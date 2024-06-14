@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Gonzalo Muñoz
-email: gmunoz@dii.uchile.cl
+email: gonzalo.m@uchile.cl
 description: >- # this means to ignore newlines until "baseurl:"
   Personal webpage of Gonzalo Muñoz, assistant professor 
   at the Department of Industrial Engineering, Universidad de Chile.
