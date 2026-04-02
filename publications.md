@@ -12,6 +12,7 @@ permalink: /publications/
 <h3 id="preprints"><mark style="background-color:rgba(0,0,0,0);color:#1590c1;" class="has-inline-color">Preprints</mark></h3>
 
 <ul>
+  <li><strong><a rel="noopener noreferrer" href="https://arxiv.org/abs/2604.00932" target="_blank">Chvátal-Gomory Rounding of Eigenvector Inequalities for QCQPs.<br></a></strong>Dey S., Jiang N., Kazachkov A., Lodi A., and Muñoz G.</li>
  <li><strong><a rel="noopener noreferrer" href="https://arxiv.org/abs/2410.23362" target="_blank">Tightening convex relaxations of trained neural networks: a unified approach for convex and S-shaped activations.<br></a></strong>Carrasco P. and Muñoz G.</li>
  <li><strong><a rel="noopener noreferrer" href="https://arxiv.org/abs/2312.17640" target="_blank">Decision-focused predictions via pessimistic bilevel optimization: complexity and algorithms.<br></a></strong>Bucarey V., Calderón S., Muñoz G., and Semet F.</li>
  <li><strong><a rel="noopener noreferrer" href="https://arxiv.org/abs/2312.16699" target="_blank">Computational Tradeoffs of Optimization-Based Bound Tightening in ReLU Networks.<br></a></strong>Badilla F., Goycoolea M., Muñoz G., and Serra T.</li>
