@@ -13,7 +13,6 @@ permalink: /publications/
 
 <ul>
   <li><strong><a rel="noopener noreferrer" href="https://arxiv.org/abs/2604.00932" target="_blank">Chvátal-Gomory Rounding of Eigenvector Inequalities for QCQPs.<br></a></strong>Dey S., Jiang N., Kazachkov A., Lodi A., and Muñoz G.</li>
- <li><strong><a rel="noopener noreferrer" href="https://arxiv.org/abs/2410.23362" target="_blank">Tightening convex relaxations of trained neural networks: a unified approach for convex and S-shaped activations.<br></a></strong>Carrasco P. and Muñoz G.</li>
  <li><strong><a rel="noopener noreferrer" href="https://arxiv.org/abs/2312.17640" target="_blank">Decision-focused predictions via pessimistic bilevel optimization: complexity and algorithms.<br></a></strong>Bucarey V., Calderón S., Muñoz G., and Semet F.</li>
  <li><strong><a rel="noopener noreferrer" href="https://arxiv.org/abs/2312.16699" target="_blank">Computational Tradeoffs of Optimization-Based Bound Tightening in ReLU Networks.<br></a></strong>Badilla F., Goycoolea M., Muñoz G., and Serra T.</li>
 </ul>
@@ -21,6 +20,7 @@ permalink: /publications/
 <h3 id="journal-publications"><mark style="background-color:rgba(0,0,0,0);color:#1590c1;" class="has-inline-color">Journal Publications</mark></h3>
 
 <ul id="block-3842bd10-f18a-4f91-b688-d7ecda6cd25a">
+  <li><strong><a rel="noopener noreferrer" href="https://link.springer.com/article/10.1007/s10107-026-02363-z" target="_blank">Tightening convex relaxations of trained neural networks: a unified approach for convex and S-shaped activations.<br></a></strong>Carrasco P. and Muñoz G. <em>Mathematical Programming, 2026.</em></li>
  <li><strong><a rel="noopener noreferrer" href="https://pubsonline.informs.org/doi/10.1287/ijoc.2024.0902" target="_blank">When Deep Learning Meets Polyhedral Theory: A Survey.<br></a></strong>Huchette J., Muñoz G., Serra T., and Tsay C. <em>INFORMS Journal on Computing, 2026.</em></li>
  <li><strong><a rel="noopener noreferrer" href="https://doi.org/10.1007/s12532-024-00256-w" target="_blank">The MIP Workshop 2023 Computational Competition on Reoptimization.<br></a></strong>Bolusani S., Besançon M., Gleixner A., Berthold T., D'Ambrosio C., Muñoz G., Paat J., and Thomopulos D. <em>Mathematical Programming Computation, 2024.</em></li>
  <li><strong><a rel="noopener noreferrer" href="https://doi.org/10.1007/s10107-024-02112-0" target="_blank">Monoidal strengthening and unique lifting in
