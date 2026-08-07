@@ -10,7 +10,7 @@ permalink: /the-cutting-plane-game/
 <h2><a href="https://bigkwii.github.io/cutting-plane-game-2-web-test/"><img class="alignnone size-full wp-image-315" src="../assets/cpgame2.png"></a></h2>
 <h3>About</h3>
 
-<p><strong>TL; DR:</strong> The game had a MAJOR update and is now hosted <a href="https://bigkwii.github.io/cutting-plane-game-2-web-test/" target="_blank" rel="noopener">HERE</a>.</p>
+<p><strong>TL; DR:</strong> The game had a MAJOR update and is now hosted <a href="thecuttingplanegame.com" target="_blank" rel="noopener">HERE</a>.</p>
 
 <p>If you are feeling nostalgic, you can check the first prototype <a href="http://www.columbia.edu/~gm2543/cpgame.html" target="_blank" rel="noopener">HERE</a>.</p>
 
